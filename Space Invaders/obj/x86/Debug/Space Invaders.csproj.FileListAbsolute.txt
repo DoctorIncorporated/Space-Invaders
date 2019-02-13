@@ -1,0 +1,30 @@
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.csprojResolveAssemblyReference.cache
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\Content\Fonts\Pericles14.xnb
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\Content\Sounds\death.xnb
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\Content\Sounds\shot.xnb
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\Content\Textures\spriteSheet.xnb
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\Content\Textures\titleScreen.xnb
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\Space Invaders.exe
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\Space Invaders.pdb
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.RawInput.dll
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.dll
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.RawInput.xml
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\bin\Windows\x86\Debug\SharpDX.Direct3D9.xml
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.exe
+C:\Users\Happy\Desktop\Other Current Project\Space Invaders\Space Invaders\obj\x86\Debug\Space Invaders.pdb

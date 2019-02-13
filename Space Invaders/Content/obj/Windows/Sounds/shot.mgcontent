@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Happy/Desktop/Other Current Project/Space Invaders/Space Invaders/Content/Sounds/shot.wav</SourceFile>
+  <SourceTime>2019-02-12T22:11:40.5836656-05:00</SourceTime>
+  <DestFile>C:/Users/Happy/Desktop/Other Current Project/Space Invaders/Space Invaders/Content/bin/Windows/Sounds/shot.xnb</DestFile>
+  <DestTime>2019-02-13T09:15:32.1969482-05:00</DestTime>
+  <Importer>WavImporter</Importer>
+  <ImporterTime>2016-03-30T02:36:08-04:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2016-03-30T02:36:08-04:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>
